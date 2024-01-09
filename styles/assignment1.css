@@ -1,0 +1,431 @@
+/* Header styles */
+.header {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+.offer {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+.new-year1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 177px;
+    margin-bottom: 0px;
+}
+
+.head {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin-top: 16px;
+    padding-bottom: 177px;
+}
+
+.header {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/resources/BannerImage.png);
+    margin: 50px 140px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    margin-bottom: 0px;
+}
+
+/* Body styles part 1 */
+.offer {
+    text-align: center;
+    font-family: Inter;
+}
+
+.off {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+
+#holiday {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 48px;
+    margin-top: 16px;
+}
+
+#catag {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 48px;
+}
+
+.image-offer {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 0px 399px;
+}
+
+/* Body Styles part 2, midnight party */
+
+.welcome {
+    background-image: url(/resources/Vectorrr.png);
+    margin: 120px 140px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    display: flex;
+}
+
+.party-text {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin: 126px 94px 24px 126px;
+}
+
+#group-70 {
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    padding: 68px 138px 67px 0px;
+}
+
+#text {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 0px 39px 32px 126px;
+}
+
+#btn {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0px 601px 142px 158px;
+    
+}
+
+/* Body styles part 3: date, place, times*/
+.address {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    margin: 120px 140px;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding-top: 100px;
+    text-align: center;
+
+}
+
+.highlight {
+    color: #F00;
+}
+
+.button {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    margin-top: 48px;
+}
+
+/* Portfolio section styles */
+.portfolio {
+    background: #FFF;
+    width: 1320px;
+    margin: 120px 140px;
+}
+
+#gift {
+    margin-bottom: 16px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+#awesome {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 22px;
+}
+
+#portfolio-text {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+    margin-bottom: 48px;
+}
+
+.row-1 {
+    margin-top: 0px;
+    margin-bottom: 24px;
+    display: flex;
+}
+
+.row-2 {
+    margin-top: 0px;
+    margin-bottom: 24px;
+    display: flex;
+}
+
+.products {
+    margin-right: 24px;
+}
+
+/* Newsletter styles */
+.newsletter {
+    width: 1320px;
+    height: 616px;
+    margin: 120px 140px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+}
+
+#news-letter {
+    margin: 80px 585px 40px 585px;
+}
+
+.Subscribe {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+    margin-top: 0px;
+}
+
+.newsletter-text {
+    color: rgba(7, 2, 17, 0.60);
+    width: 896px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 0px;
+    margin-bottom: 48px;
+    margin-left: 212px;
+}
+
+.sub-btn {
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+    margin-left: 336px;
+    display: flex;
+}
+
+#emial {
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    border: 0px;
+    border-radius: 50px;
+}
+
+#sub {
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    margin-left: inherit;
+    border: 0px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+/* footer style */
+.footer-main {
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+}
+
+.address-website {
+    display: flex;
+}
+
+#web-mob {
+    display: block;
+
+}
+
+#mobile {
+    display: flex;
+    flex-shrink: 0;
+}
+
+#website {
+    display: flex;
+}
+
+#ofc-addr {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin: 120px 559px 0px 140px;
+    width: 375px;
+    height: 80px;
+}
+
+#mob-icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 16px;
+    margin-top: 128px;
+    margin-bottom: 0px;
+}
+
+#mob-no {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 16px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+}
+
+#web-icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-right: 16px;
+    margin-top: 0px;
+
+}
+
+#web-addr {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    margin-left: 16px;
+    margin-right: 275px;
+    margin-top: 0px;
+}
+
+.hr-line-1 {
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 50px 140px 48px 140px;
+}
+
+.social {
+    margin-left: 140px;
+    display: flex;
+    margin-left: 640px;
+    margin-bottom: 48px;
+}
+
+.social-sign {
+    margin-right: 24px;
+}
+
+.hr-line-2 {
+    width: 1320px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 0px 140px 50px 140px;
+}
+
+.footer-end {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    margin-left: 140px;
+    margin-top: 0px;
+    margin-right: 140px;
+    margin-bottom: 120px;
+    justify-content: space-between;
+}
