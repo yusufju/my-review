@@ -29,7 +29,7 @@
 }
 
 .header {
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(/resources/BannerImage.png);
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/BannerImage.png);
     margin: 50px 140px;
     width: 1320px;
     height: 600px;
@@ -78,7 +78,7 @@
 /* Body Styles part 2, midnight party */
 
 .welcome {
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(/resources/Vectorrr.png);
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(../resources/Vectorrr.png);
     margin: 120px 140px;
     width: 1320px;
     height: 600px;
